@@ -9,11 +9,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c89f0348-b2dd-44ce-a281-ff2d6d4e0980" name="变更" comment="" />
+    <list default="true" id="c89f0348-b2dd-44ce-a281-ff2d6d4e0980" name="变更" comment="first commit -m&quot;张萱瑾第一次提交&quot;">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
@@ -244,11 +252,34 @@
       <workItem from="1713320102825" duration="10379000" />
       <workItem from="1713338857997" duration="33540000" />
       <workItem from="1713695212231" duration="9290000" />
-      <workItem from="1713705339737" duration="2363000" />
+      <workItem from="1713705339737" duration="4029000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit -m&quot;张萱瑾第一次提交&quot;">
+      <created>1713708177456</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713708177456</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit -m&quot;张萱瑾第一次提交&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit -m&quot;张萱瑾第一次提交&quot;" />
   </component>
 </project>
